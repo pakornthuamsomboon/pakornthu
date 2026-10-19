@@ -1,36 +1,26 @@
-# Hi, I'm Pakorn (Tong)
+# Hi, I'm Pakorn Thuamsomboon (Tong)
 
-Business Analyst | Software Engineer
+Senior Business Analyst | Software Engineer
 
-I bridge the gap between business requirements and technology solutions.
+I specialize in bridging business requirements and technical solutions, with experience across requirement analysis, system design, software development, and digital transformation initiatives.
 
-### What I Do
+## What I Do
 
-- Analyze business problems
-- Gather and document requirements
-- Design scalable solutions
-- Build software and automation tools
-- Leverage data for business decision-making
+- Business Analysis
+- Solution Design
+- System Architecture
+- Software Engineering
+- Process Improvement
+- Data Analysis
 
-### Tech Stack
+## Technical Skills
 
 - Python
 - Java
 - Typescript
-- SQL & SOQL
-- Git & GitHub
-- Power BI
-- Excel
+- SQL
 - REST APIs
-
-### Business Skills
-
-- Business Analysis
-- Market Research
-- Process Improvement
-- Stakeholder Management
-- Strategic Planning
-
-### Currently Learning
-
-- AI Applications
+- Git & GitHub
+- Docker
+- Azure
+- CI/CD
